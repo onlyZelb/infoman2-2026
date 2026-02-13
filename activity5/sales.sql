@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS sales;
+
 
 CREATE TABLE sales (
     product_name VARCHAR(100),
